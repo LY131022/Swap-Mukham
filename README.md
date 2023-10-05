@@ -26,7 +26,7 @@ https://github.com/harisreedhar/Swap-Mukham/assets/46858047/d8f2389a-3078-43a1-9
 ## Installation
 ### CPU Install
 ````
-git clone https://github.com/harisreedhar/Swap-Mukham
+git clone https://github.com/LY131022/Swap-Mukham
 cd Swap-Mukham
 conda create -n swapmukham python=3.10 -y
 conda activate swapmukham
@@ -36,7 +36,7 @@ python app.py
 ````
 ### GPU Install (CUDA)
 ````
-git clone https://github.com/harisreedhar/Swap-Mukham
+git clone https://github.com/LY131022/Swap-Mukham
 cd Swap-Mukham
 conda create -n swapmukham python=3.10 -y
 conda activate swapmukham
